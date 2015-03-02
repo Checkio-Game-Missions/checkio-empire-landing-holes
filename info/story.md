@@ -1,4 +1,3 @@
-Sometimes ancestors built weird things.
-We have discovered and wish to use an ancient circular cannon loading system.
-And we will use it for the landing our troops.
+Sometimes the ancient humans built weird things that we can't quite understand.
+We recently discovered an ancient circular cannon loading system that we wish to use for landing our troops.
 But first we need to repair and comprehend the old system.
