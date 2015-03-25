@@ -8,9 +8,9 @@ from tests import TESTS
 
 class Referee(RefereeBase):
     TESTS = TESTS
-    EXECUTABLE_PATH = settings.EXECUTABLE_PATH
-    CURRENT_ENV = settings_env.CURRENT_ENV
-    FUNCTION_NAME = "rotate"
+    ENVIRONMENTS = settings_env.ENVIRONMENTS
+
+    DEFAULT_FUNCTION_NAME = "rotate"
     ENV_COVERCODE = {
         "python_2": covercodes.py_unwrap_args,
         "python_3": covercodes.py_unwrap_args,
