@@ -17,7 +17,5 @@ class Referee(RefereeBase):
         "javascript": None
     }
     CALLED_REPRESENTATIONS = {
-        "python_2": representations.py_tuple_representation,
-        "python_3": representations.py_tuple_representation,
-        "javascript": representations.py_tuple_representation,
+        "python_3": representations.unwrap_arg_representation,
     }
