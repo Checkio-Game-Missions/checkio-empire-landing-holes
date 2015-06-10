@@ -24,5 +24,3 @@ If it's not possible to find a solution, then return [].
 For example, the initial state is [1,0,0,0,1,1,0,1,0,0,0,1] and pipes numbers are [0,1].
 If you rotate the mechanism by 1 or 8 units, then all projectiles which
 are be placed in the 0th and 1st pipes will be in cannons.
-
-![Rotate_system](floor.svg)
