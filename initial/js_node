@@ -12,4 +12,6 @@ if (!global.is_checking) {
     assert.deepEqual(rotate([1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1], [0, 1, 2]), [], "Mission impossible");
     assert.deepEqual(rotate([1, 0, 0, 0, 1, 1, 0, 1], [0, 4, 5]), [0], "Don't touch it");
     assert.deepEqual(rotate([1, 0, 0, 0, 1, 1, 0, 1], [5, 4, 5]), [0, 5], "Two cannonballs in the same pipe");
+    console.log("Now that you're finished, hit the 'Check' button to review your code and earn sweet rewards!");
 }
+
